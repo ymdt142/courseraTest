@@ -14,15 +14,11 @@ body{
 a{
     color: black;
 }
-#navbar-item{
-    text-align: center;
-}
 #navbar-item a:hover{
     background: grey;
 }
 .container{
     width: 100%;
-    text-align: center;
     font-size: 1em;
 }
 p,h3{
